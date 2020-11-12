@@ -1,0 +1,1 @@
+This course is a full stack course where I will learn how JS based technologies can be used and integrated across all three tires of webdevelopment. 
